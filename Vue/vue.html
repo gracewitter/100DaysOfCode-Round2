@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <script src="vue.js"></script>
+  </head>
+  <body>
+    <div id="app">
+      <input type="text" v-on:input="changeTitle">
+      <p>{{ title }}</p>
+    </div>
+  </body>
+  <script>
+    new Vue({
+	el: '#app',
+  data: {
+  	title: 'Hello Grace'
+  },
+  methods: {
+  	changeTitle: function () {
+    	this.title = event.target.value;
+    }
+  }
+});
+  </script>
+</html>
