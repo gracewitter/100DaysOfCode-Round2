@@ -8,7 +8,9 @@
 
 **Thoughts:** I'm glad that I'm going to be systematic about my learning again
 
-**Link to work:** []()
+**Link to work:** 
+[vue assignment 1](https://github.com/gracewitter/100DaysOfCode-Round2/blob/master/Vue/section2/assignment1.html)
+[Prototype Inheritance](https://github.com/gracewitter/100DaysOfCode-Round2/tree/master/Javascript/javascriptInfo/8-prototypes/8-1-prototypeInheritance)
 
 ### Day 2 8/6/19
 
