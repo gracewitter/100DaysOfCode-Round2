@@ -10,6 +10,14 @@
 
 **Link to work:** []()
 
+### Day 2 8/6/19
+
+**Today's Progress**: ~30 minutes Odin Project, Library project
+
+**Thoughts:** I feel like I got myself stuck in the weeds pretty quickly here. Going to sketch it out later and make sure I understand everything. Felt so tired today, but wanted to commit something
+
+**Link to work:**
+
 ### Day
 
 **Today's Progress**:
