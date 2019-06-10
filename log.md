@@ -8,7 +8,7 @@
 
 **Thoughts:** I'm glad that I'm going to be systematic about my learning again
 
-**Link to work:** 
+**Link to work:**
 [vue assignment 1](https://github.com/gracewitter/100DaysOfCode-Round2/blob/master/Vue/section2/assignment1.html)
 [Prototype Inheritance](https://github.com/gracewitter/100DaysOfCode-Round2/tree/master/Javascript/javascriptInfo/8-prototypes/8-1-prototypeInheritance)
 
@@ -18,11 +18,24 @@
 
 **Thoughts:** I feel like I got myself stuck in the weeds pretty quickly here. Going to sketch it out later and make sure I understand everything. Felt so tired today, but wanted to commit something
 
+**Link to work:**[Project: Book Library](https://github.com/gracewitter/100DaysOfCode-Round2/tree/master/Javascript/Odin/organising-js/project-library)
+
+### Day 3 10/6/19
+
+**Today's Progress**:
+- 30 minutes Vue
+  - events
+  - [assignment 2]()
+- 1 hr Javascript
+  - [Project: Book Library](https://github.com/gracewitter/100DaysOfCode-Round2/tree/master/Javascript/Odin/organising-js/project-library)
+
+**Thoughts:** I enjoyed the vue lesson, still seems pretty simple. I needed to map out the library project on paper before I could mentally understand all of the parts, but I'm really happy that I got there. Not feeling bothered to add any css to make it look nice.
+
 **Link to work:**
 
 ### Day
 
-**Today's Progress**:
+**Today's Progress:**
 
 **Thoughts:**
 

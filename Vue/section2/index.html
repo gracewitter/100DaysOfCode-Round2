@@ -11,6 +11,14 @@
       <p>{{ sayHello() }} - <a v-bind:href="link">Google</a></p>
       <hr />
       <p>{{ finishedLink }}</p>
+
+      <button v-on:click="increase(2, $event)">Click Me</button>
+      <p>{{ counter }}</p>
+      <p v-on:mousemove="updateCoordinates">Coordinates: {{ x }} / {{ y }}
+        - <span v-on:mousemove.stop="">Dead Spot</span>
+      </p>
+      <input type="text" v-on:keyup.enter="alertMe" />
+
     </div>
   </body>
   <script>
@@ -19,12 +27,25 @@
       data: {
         title: 'Hello Grace',
         link: 'http://www.google.com',
-        finishedLink: '<a href="http://www.google.com">Google</a>'
+        finishedLink: '<a href="http://www.google.com">Google</a>',
+        counter: 0,
+        x: 0,
+        y: 0
       },
       methods: {
         sayHello: function() {
           this.title = 'Hello';
           return this.title;
+        },
+        increase: function(step, event) {
+          this.counter += step;
+        },
+        updateCoordinates: function(event) {
+          this.x = event.clientX;
+          this.y = event.clientY;
+        },
+        alertMe: function(){
+          alert('Alert!')
         }
       }
     })
