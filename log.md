@@ -25,13 +25,24 @@
 **Today's Progress**:
 - 30 minutes Vue
   - events
-  - [assignment 2]()
+  - [assignment 2](https://github.com/gracewitter/100DaysOfCode-Round2/blob/master/Vue/section2/assignment2.html)
 - 1 hr Javascript
   - [Project: Book Library](https://github.com/gracewitter/100DaysOfCode-Round2/tree/master/Javascript/Odin/organising-js/project-library)
 
 **Thoughts:** I enjoyed the vue lesson, still seems pretty simple. I needed to map out the library project on paper before I could mentally understand all of the parts, but I'm really happy that I got there. Not feeling bothered to add any css to make it look nice.
 
 **Link to work:**
+
+### Day 4 11/6/19
+
+**Today's Progress:**
+- 30 minutes Vue
+  - reactive properties
+  -[assignment 3](https://github.com/gracewitter/100DaysOfCode-Round2/blob/master/Vue/section2/assignment3.html)
+- 30 minutes Javascript
+  - [practice with dom manipulation]()
+
+**Thoughts:** I went back to finish some fundamental JS that I left from the last 100Days challenge. I remember thinking that this lesson was really confusing, but now it felt too easy
 
 ### Day
 
