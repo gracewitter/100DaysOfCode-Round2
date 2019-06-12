@@ -40,14 +40,24 @@
   - reactive properties
   -[assignment 3](https://github.com/gracewitter/100DaysOfCode-Round2/blob/master/Vue/section2/assignment3.html)
 - 30 minutes Javascript
-  - [practice with dom manipulation]()
+  - [practice with dom manipulation](https://github.com/gracewitter/100DaysOfCode-Round2/tree/master/Javascript/Odin/basics)
 
 **Thoughts:** I went back to finish some fundamental JS that I left from the last 100Days challenge. I remember thinking that this lesson was really confusing, but now it felt too easy
+
+### Day 5 12/6/19
+
+**Today's Progress:**
+- 30 min Vue
+  - [reactiveProperties.html]()
+  - [assignment 4]()
+  - completed section 2
+- 30 min JS
+  - got about halfway though etch-a-sketch project
+
+**Thoughts:**
 
 ### Day
 
 **Today's Progress:**
 
 **Thoughts:**
-
-**Link to work:**
