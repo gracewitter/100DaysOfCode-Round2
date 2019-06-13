@@ -56,6 +56,15 @@
 
 **Thoughts:**
 
+### Day 6
+
+**Today's Progress:**
+Finished etch a sketcch Project
+10 minutes of Vue
+Falling asleep at the desk, decided to stop early
+
+**Thoughts:**
+
 ### Day
 
 **Today's Progress:**
